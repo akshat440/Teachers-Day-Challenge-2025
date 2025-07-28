@@ -46,6 +46,8 @@ Whether it’s one line of code or one solved bug, it adds up.
 **👨‍💻 Akshat Singh Tomar**  
 B.Tech CSE | VIT Bhopal  
 GitHub: [akshatcode440](https://github.com/akshatcode440)
+Leetcode : akshatcode440 - https://leetcode.com/u/lBBkWLPZ2Q/
+CodeForces : https://codeforces.com/profile/akshatcode440
 
 ---
 
